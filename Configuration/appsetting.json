@@ -1,0 +1,10 @@
+{
+    "browser": "chrome",
+    "enviroment": "staging",
+    "baseUrl": "https://rookieb7-ams-client.azurewebsites.net",
+    "baseAPI":"https://rookieb7-ams.azurewebsites.net/api",
+    "timeout.webdriver.wait.seconds": 10,
+    "timeout.webdriver.pageLoad.seconds": 120,
+    "timeout.webdriver.asyncJavaScript.seconds": 30
+  }
+  

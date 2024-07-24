@@ -1,0 +1,23 @@
+{
+    "asset": {
+        "Name": "MSI GF63",
+        "Category": "Laptop",
+        "Specification": "Core i5, 16GB RAM, 512GB SSD",
+        "InstalledDate": "03072024",
+        "State": "Available"
+    },
+    "assetCategory": {
+        "Name": "Macbook",
+        "Category": "Macbook",
+        "Specification": "Core i5, 16GB RAM, 512GB SSD",
+        "InstalledDate": "03072024",
+        "State": "Available"
+    },
+    "assetDelete": {
+        "Name": "MSI Katana",
+        "Category": "Laptop",
+        "Specification": "Core i7, 16GB RAM, 512GB SSD",
+        "InstalledDate": "03072024",
+        "State": "Available"
+    }
+}

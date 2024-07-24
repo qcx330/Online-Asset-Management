@@ -1,0 +1,46 @@
+{
+    "userStaff": {
+      "FirstName": "Giang",
+      "LastName": "Nguyễn Thị Hương",
+      "DateOfBirth": "10041990",
+      "Gender": "Male",
+      "JoinedDate": "20062024",
+      "Type": "Staff"
+    },
+    "userAdmin":{
+      "FirstName": "John",
+      "LastName": "Wick",
+      "DateOfBirth": "09021964",
+      "Gender": "Male",
+      "JoinedDate": "27062024",
+      "Type": "Admin"
+    },
+    "userDisabled":{
+      "FirstName": "Fahim",
+      "LastName": "Jaymes",
+      "DateOfBirth": "09021964",
+      "Gender": "Male",
+      "JoinedDate": "06272024",
+      "Type": "Staff"
+    },
+    "userInvalidDate":{
+      "FirstName": "Nekoda",
+      "LastName": "Achav",
+      "DateOfBirth": "10041990",
+      "Gender": "Female",
+      "JoinedDate": "06201989",
+      "Type": "Staff"
+    },
+    "userInvalidJoinedDate":{
+      "FirstName": "Nekoda",
+      "LastName": "Achav",
+      "DateOfBirth": "10041990",
+      "Gender": "Female",
+      "JoinedDate": "06292024",
+      "Type": "Staff"
+    },
+    "updateUser":{
+      "DateOfBirth": "06282002",
+      "Gender": "Female"   
+    }
+  }

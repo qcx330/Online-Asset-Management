@@ -1,0 +1,11 @@
+{
+    "user": {
+        "firstName": "Fahim",
+        "lastName": "Jaymes",
+        "dob": "1978-03-19T18:25:43.511Z",
+        "joinedAt": "2005-07-10T18:25:43.511Z",
+        "type": "staff",
+        "gender": "male",
+        "location": "hcm"
+    }
+}

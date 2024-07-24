@@ -1,0 +1,25 @@
+{
+    "assignmentAllFields":{
+        "User":"John",
+        "Asset": "Laptop",
+        "AssignDate":"",
+        "Note": "test 1234"
+    },
+    "assignmentRequireFields":{
+        "User":"Giang",
+        "Asset": "Mouse",
+        "AssignDate":"",
+        "Note": ""
+    },
+    "assignmentUpdate":{
+        "Asset": "Laptop",
+        "Note": "abc test"
+    },
+    "assignmentDelete":{
+        "User":"John",
+        "Asset": "Laptop",
+        "AssignDate":"",
+        "Note": "test 1234"
+    }
+
+}

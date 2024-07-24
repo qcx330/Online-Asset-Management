@@ -1,0 +1,18 @@
+{
+    "admin":{
+        "Username": "johnw11",
+        "Password": "John1234"
+    },
+    "staff":{
+        "Username": "useru",
+        "Password": "123456"
+    },
+    "invalidUsername":{
+        "Username": "useru1",
+        "Password": "useru"
+    },
+    "invalidPassword":{
+        "Username": "useru",
+        "Password": "useru1"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "Browsers": {
+        "Chrome": {
+            "Headless": false,
+            "Arguments": [
+                "--window-size=1920,1080"
+            ]
+        },
+        "Firefox": {
+            "Headless": false,
+            "Arguments": [
+            ]
+        },
+        "Edge": {
+            "Headless": false,
+            "Arguments": [
+                "--headless",
+                "--disable-gpu"
+            ]
+        }
+    }
+}
